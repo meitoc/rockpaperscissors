@@ -45,6 +45,7 @@ function Render(){
   function resetGame(){
     handState(0);
     gameState(0);
+    hand2ndState(0);
     refereeState('Hãy chọn "búa", "bao" hoặc "kéo"');
   }
   
